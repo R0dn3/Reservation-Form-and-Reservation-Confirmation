@@ -13,10 +13,12 @@ Este proyecto es una aplicación web para realizar reservas de habitaciones de h
 ## 📸 Capturas de pantalla
 
 ### 📋 Formulario de Reserva
-![Formulario de Reserva](./public/img/captura-formulario.png)
+![captura-formulario](https://github.com/user-attachments/assets/f93a890f-a786-4dc8-871f-881b76cda354)
+
 
 ### ✅ Confirmación de Reserva
-![Confirmación de Reserva](./public/img/captura-confirmacion.png)
+![captura-confirmacion](https://github.com/user-attachments/assets/69bef7db-703f-4384-8023-e872a4fb0cab)
+
 
 ## 🔧 Funcionalidades
 
@@ -30,5 +32,5 @@ Este proyecto es una aplicación web para realizar reservas de habitaciones de h
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repo.git
-   cd nombre-del-repo
+   git https://github.com/R0dn3/Reservation-Form-and-Reservation-Confirmation.git
+   cd Reservation-Form-and-Reservation-Confirmation
