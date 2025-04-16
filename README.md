@@ -1,36 +1,36 @@
-# 🏨 Sistema de Reservas de Hotel
+# 🏨 Hotel Booking System
 
-Este proyecto es una aplicación web para realizar reservas de habitaciones de hotel. Desarrollado con **React.js**, permite a los usuarios ingresar sus datos, seleccionar fechas, tipo de habitación y recibir una confirmación con cálculo automático del costo total.
+This project is a web application built with **React.js** that allows users to book hotel rooms. It includes a reservation form, live price calculation based on room type, and a stylish confirmation screen with a confetti animation.
 
-## 🚀 Tecnologías utilizadas
+## 🚀 Technologies Used
 
 - ⚛️ React.js
 - 🎨 Tailwind CSS
 - 🎉 React Confetti
 - 🔄 React Router DOM
-- 💡 Icons (React Icons)
+- 💡 React Icons
 
-## 📸 Capturas de pantalla
+## 📸 Screenshots
 
-### 📋 Formulario de Reserva
-![captura-formulario](https://github.com/user-attachments/assets/f93a890f-a786-4dc8-871f-881b76cda354)
-
-
-### ✅ Confirmación de Reserva
-![captura-confirmacion](https://github.com/user-attachments/assets/69bef7db-703f-4384-8023-e872a4fb0cab)
+### 📋 Booking Form
+![captura-formulario](https://github.com/user-attachments/assets/15c80daf-6eec-44c8-852a-07df434e809a)
 
 
-## 🔧 Funcionalidades
+### ✅ Booking Confirmation
+![captura-confirmacion](https://github.com/user-attachments/assets/9ca77591-111c-4819-880d-56e30b10a260)
 
-- Formulario interactivo con campos validados.
-- Cálculo automático de noches, precio por habitación y total a pagar.
-- Animación de confeti al confirmar una reserva.
-- Estilos modernos y responsivos con Tailwind CSS.
-- Navegación entre pantallas usando React Router.
 
-## 🛠 Instalación y ejecución
+## 🔧 Features
 
-1. Clona el repositorio:
+- Interactive form with input validation.
+- Automatic calculation of number of nights, price per night, and total cost.
+- Confetti animation on successful reservation.
+- Responsive and modern UI with Tailwind CSS.
+- Page navigation using React Router.
+
+## 🛠 Installation & Setup
+
+1. Clone the repository:
    ```bash
    git https://github.com/R0dn3/Reservation-Form-and-Reservation-Confirmation.git
    cd Reservation-Form-and-Reservation-Confirmation
