@@ -34,3 +34,7 @@ This project is a web application built with **React.js** that allows users to b
    ```bash
    git https://github.com/R0dn3/Reservation-Form-and-Reservation-Confirmation.git
    cd Reservation-Form-and-Reservation-Confirmation
+2. Install dependencies:
+   `npm install`
+3. Run the app:
+   `npm start`
